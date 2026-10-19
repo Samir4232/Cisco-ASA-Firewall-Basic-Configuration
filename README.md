@@ -1,5 +1,5 @@
 
-# 🔥 LAB67 – Cisco ASA Firewall Basic Configuration
+# 🔥 LAB2 – Cisco ASA Firewall Basic Configuration
 
 ## 📌 Topology Overview
 
@@ -119,4 +119,4 @@ show running-config
 ---
 ## Network Topology
 
-![Enterprise Network Topology]()
+![Enterprise Network Topology](topology-screenshot.png)
